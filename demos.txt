@@ -1,0 +1,4 @@
+CMS Star Schema|HDFS,HAWQ
+TPC-H Benchmark|HDFS,HAWQ
+Pivotal Extension Framework - PXF|HDFS,HAWQ,PXF,YARN,ZOOKEEPER,HIVE
+Madlib: Big Data Machine Learning in SQL for Data Scientists|HDFS,HAWQ

@@ -1,0 +1,27 @@
+0|Invalid Place of Service Code
+1|Office (pre 1992)
+11|Office
+12|Home
+21|Inpatient hospital
+22|Outpatient hospital
+23|Emergency room . hospital
+24|Ambulatory surgical center
+31|Skilled nursing facility
+32|Nursing facility
+33|Custodial care facility
+34|Hospice
+41|Ambulance - land
+42|Ambulance - air or water
+50|Federally qualified health centers
+51|Inpatient psychiatric facility
+52|Psychiatric facility partial hospitalization
+53|Community mental health center
+54|Intermediate care facility/mentally retarded
+56|Psychiatric residential treatment center
+60|Mass immunizations center
+61|Comprehensive inpatient rehabilitation facility
+65|End stage renal disease treatment facility
+71|State or local public health clinic
+72|Rural health clinic
+81|Independent laboratory
+99|Other unlisted facility
