@@ -6,6 +6,7 @@ Author: Jon Roberts
 This series of demos are used in conjunction with the Pivotal Single Node Virtual 
 Machine of Pivotal HD and HAWQ.  
 
+v0.0.133
 ***********************************************************************************
 Instructions
 ***********************************************************************************
